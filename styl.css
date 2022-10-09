@@ -1,0 +1,66 @@
+#headall {width: 100%;}
+
+#son {
+    text-align: center;
+    background: thistle;
+    margin-left: 13%;
+    width: 74%;
+    font-size: 16px;
+    font-family: cursive;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#daughter{margin-top: 11px;}
+
+#para {
+    width: 80%;
+    word-spacing: 2px;
+    padding: 6px;
+    margin-top: 60px;
+    margin-left: 2%;
+    font-family: system-ui;
+    position: absolute;
+    font-size: 21px;
+}
+#myself { margin-left: 5%;
+    width: 90%;
+    height: 330px;
+    text-align: center;
+    background: thistle;
+    border-radius:85px;
+}
+#topic {
+    position: absolute;
+    margin-top: 1px;
+    width: 21%;
+    height: 30px;
+    text-align: center;
+    background-color: burlywood;
+    margin-left: 34%;
+    border-radius: 15px;
+}
+
+
+#h1 {
+    position: absolute;
+    margin-top: 20px;
+    width: 50%;
+    height: 43px;
+    background-color: lavender;
+    margin-left: 19%;
+    border-radius: 15px;
+}
+
+    h2 {
+        position: relative;
+        margin-top: 7px;
+        margin-left: 2%;
+    }
+ h3 {border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+background-color: thistle;}

@@ -6,7 +6,7 @@
     margin-left: 13%;
     width: 74%;
     font-size: 12px;
-    font-family: cursive;
+    font-family:monospace;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -27,7 +27,7 @@
 }
 #myself { margin-left: 5%;
     width: 90%;
-    height: 330px;
+    height: 430px;
     text-align: center;
     background: thistle;
     border-radius:85px;
@@ -55,6 +55,8 @@
 }
 
     h2 {
+        font-size: 25px;
+        font-family: monospace;
         position: relative;
         margin-top: 7px;
         margin-left: 2%;

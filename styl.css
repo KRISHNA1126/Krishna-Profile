@@ -15,16 +15,7 @@
 
 #daughter{margin-top: 11px;}
 
-#para {
-    width: 80%;
-    word-spacing: 2px;
-    padding: 6px;
-    margin-top: 60px;
-    margin-left: 2%;
-    font-family: system-ui;
-    position: absolute;
-    font-size: 15px;
-}
+
 #myself { margin-left: 5%;
     width: 90%;
     height: 430px;
@@ -66,3 +57,43 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 background-color: thistle;}
+#eo
+{text-align: center;
+    
+   
+    background-color:#1d1d1d;
+    color: white;
+    margin-top: 20px;
+}
+#para
+{
+
+    
+        
+    
+   
+}
+.carousel-inner img {
+
+    width: 80%;
+    height: 400px;
+    
+}
+.link
+{float: left;
+}
+.demoo
+{width: 
+    100%;
+height: 400px;
+background-color:#202020;}
+
+#img
+{
+    width:30%;
+   
+}
+
+
+
+    
